@@ -17,3 +17,4 @@ ollama
 llm_axe 
 langchain_core 
 langchain
+python-dotenv
